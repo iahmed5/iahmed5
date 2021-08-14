@@ -6,6 +6,6 @@ I'm  a full stack developer focused on Java/React and other modern language fram
 - 🌱 I’m currently learning Flutter and DART to develop cross mobile platform applications
 - 👯 I’m looking to collaborate on building real life web and mobile apps
 - 🤔 I’m looking for help with innovative solution ideas
-- 💬 Ask me about anything :)
+- 💬 Ask me about anything
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/izaz-ahmed/)
 - ⚡ Fun fact: love ice skating ⛸ & chess beginner ♟
