@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Izaz
 
-I'm  a full stack developer focused on Java/React and other modern language frameworks and cloud architecture platforms.
+I'm  a Full Stack Java Developer focused on Java/React and other modern language frameworks and cloud architecture platforms.
 
 - 🔭 I’m currently working on Java Spring JMS queues to facilitate communication between my components
 - 🌱 I’m currently learning Flutter and DART to develop cross mobile platform applications
